@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "105803479596",
+    "project_id": "mech-doc-be452",
+    "storage_bucket": "mech-doc-be452.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105803479596:android:6d352c9f33b604ede06f89",
+        "android_client_info": {
+          "package_name": "com.example.mech_doc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjZSuo3I3ihbnMxJ2tmwGaUMGJopMeMqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
